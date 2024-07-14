@@ -1514,6 +1514,21 @@ ini Day"},
       {"date": "April 19", "name": "Declaration of Independence"},
       {"date": "May 1", "name": "Labour Day"}
     ]
+  },
+  "Vietnam": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "January 23", "name": "Tet Nguyen Dan"},
+      {"date": "April 30", "name": "Liberation Day"},
+      {"date": "September 2", "name": "National Day"}
+    ]
+  },
+  "Yemen": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "April 27", "name": "Eid al-Fitr"},
+      {"date": "July 17", "name": "Revolution Day"},
+      {"date": "September 26", "name": "September Revolution Day"}
 
 
 
