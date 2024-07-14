@@ -162,6 +162,22 @@ name": "St. George's Caye Day"},
     ]
   },
 
+  "Botswana": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "July 1", "name": "Sir Seretse Khama Day"},
+      {"date": "September 30", "name": "Botswana Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "Brazil": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "April 21", "name": "Tiradentes Day"},
+      {"date": "September 7", "name": "Independence Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
 
 
 
