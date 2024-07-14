@@ -7,7 +7,7 @@
 
 
 > *Hey, hey,cut me some slack. I've got a kid at home.<br>
-> 헤이, 이봐, 나 좀 여유를 잘라. 집에 아내와 아이가 있어요<br>
+> 이봐, 나 좀 풀어줘. 집에 아이가 있어요.<br>
 > Maes Hughes*
 
 
