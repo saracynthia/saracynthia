@@ -1311,6 +1311,22 @@ New Year's Day"},
       {"date": "December 25", "name": "Christmas Day"}
     ]
   },
+ "Sweden": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "January 6", "name": "Epiphany"},
+      {"date": "April 1", "name": "Maundy Thursday"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "Switzerland": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "January 6", "name": "Epiphany"},
+      {"date": "March 19", "name": "Saint Joseph's Day"},
+      {"date": "April 1", "name": "Good Friday"}
+    ]
+  },
 
 
 
