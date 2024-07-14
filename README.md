@@ -1361,6 +1361,22 @@ olidays": [
       {"date": "December 9", "name": "Independence Day"}
     ]
   },
+ "Thailand": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "April 6", "name": "Chakri Day"},
+      {"date": "July 28", "name": "King Vajiralongkorn's Birthday"},
+      {"date": "October 13", "name": "King Bhumibol Memorial Day"}
+    ]
+  },
+  "Timor-Leste": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "May 20", "name": "Restoration of Independence"},
+      {"date": "August 30", "name": "Popular Consultation Day"},
+      {"date": "November 1", "name": "All Saints' Day"}
+    ]
+  },
 
 
 
