@@ -598,6 +598,22 @@ Countires Holidays
       {"date": "April 9", "name": "Islamic Republic Day"}
     ]
   },
+  "Iraq": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "July 14", "name": "Republic Day"},
+      {"date": "August 8", "name": "Eid al-Fitr"},
+      {"date": "October 3", "name": "Eid al-Adha"}
+    ]
+  },
+  "Ireland": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 17", "name": "Saint Patrick's Day"},
+      {"date": "August 1", "name": "Summer Bank Holiday"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
 
 
 
