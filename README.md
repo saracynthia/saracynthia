@@ -1232,6 +1232,16 @@ New Year's Day"},
       {"date": "December 25", "name": "Christmas Day"}
     ]
   },
+  "Slovakia": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "January 6", "name": "Epiphany"},
+      {"date": "May 1", "name": "Labour Day"},
+      {"date": "July 5", "name": "St. Cyril and St. Methodius Day"}
+    ]
+  },
+
+
 
 
 
