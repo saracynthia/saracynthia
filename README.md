@@ -696,6 +696,14 @@ Countires Holidays
       {"date": "May 1", "name": "Labour Day"}
     ]
   },
+ "Laos": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "April 14", "name": "Pi Mai"},
+      {"date": "May 1", "name": "Labour Day"},
+      {"date": "December 2", "name": "National Day"}
+    ]
+  },
 
 
 
