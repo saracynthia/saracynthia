@@ -1110,6 +1110,38 @@ name": "Christmas Day"}
       {"date": "November 1", "name": "All Saints' Day"}
     ]
   },
+ "Romania": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "April 28", "name": "Orthodox Good Friday"},
+      {"date": "April 29", "name": "Orthodox Easter Saturday"},
+      {"date": "December 1", "name": "National Day"}
+    ]
+  },
+  "Russia": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "January 7", "name": "Orthodox Christmas Day"},
+      {"date": "February 23", "name": "Defender of the Fatherland Day"},
+      {"date": "March 8", "name": "International Women's Day"}
+    ]
+  },
+  "Rwanda": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "February 1", "name": "National Heroes Day"},
+      {"date": "April 7", "name": "Genocide Memorial Day"},
+      {"date": "July 1", "name": "Independence Day"}
+    ]
+  },
+  "Saint Kitts and Nevis": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "January 2", "name": "Carnival Day"},
+      {"date": "May 1", "name": "Labour Day"},
+      {"date": "September 19", "name": "Independence Day"}
+    ]
+  },
 
 
 
