@@ -137,6 +137,14 @@ name": "St. George's Caye Day"},
       {"date": "December 25", "name": "Christmas Day"}
     ]
   },
+  "Benin": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "January 10", "name": "Traditional Day"},
+      {"date": "August 1", "name": "Independence Day"},
+      {"date": "November 30", "name": "National Day"}
+    ]
+  },
 
 
 
