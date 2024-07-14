@@ -17,5 +17,13 @@ Countires Holidays
       {"date": "November 28", "name": "Independence Day"},
       {"date": "December 25", "name": "Christmas Day"}
     ]
+ "Algeria": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "July 5", "name": "Independence Day"},
+      {"date": "November 1", "name": "Revolution Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+
 
 
