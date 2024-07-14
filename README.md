@@ -784,6 +784,16 @@ Countires Holidays
       {"date": "December 25", "name": "Christmas Day"}
     ]
   },
+  "Malaysia": {
+    "holidays": [
+      {"date": "January 1
+
+", "name": "New Year's Day"},
+      {"date": "February 1", "name": "Federal Territory Day"},
+      {"date": "May 1", "name": "Labour Day"},
+      {"date": "August 31", "name": "National Day"}
+    ]
+  },
 
 
 
