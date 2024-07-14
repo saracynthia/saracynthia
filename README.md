@@ -1094,6 +1094,22 @@ name": "Christmas Day"}
       {"date": "December 1", "name": "Restoration of Independence"}
     ]
   },
+  "Qatar": {
+    "holidays": [
+      {"date": "February 13", "name": "National Day"},
+      {"date": "May 1", "name": "Labour Day"},
+      {"date": "June 5", "name": "Eid al-Fitr"},
+      {"date": "July 20", "name": "Eid al-Adha"}
+    ]
+  },
+  "Republic of the Congo": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 8", "name": "International Women's Day"},
+      {"date": "August 15", "name": "Independence Day"},
+      {"date": "November 1", "name": "All Saints' Day"}
+    ]
+  },
 
 
 
