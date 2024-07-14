@@ -119,6 +119,14 @@ Countires Holidays
       {"date": "November 7", "name": "October Revolution Day"}
     ]
   },
+ "Belgium": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "April 5", "name": "Easter Monday"},
+      {"date": "July 21", "name": "Belgian National Day"},
+      {"date": "November 1", "name": "All Saints' Day"}
+    ]
+  },
 
 
 
