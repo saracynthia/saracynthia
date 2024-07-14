@@ -1158,6 +1158,23 @@ name": "Christmas Day"}
       {"date": "December 25", "name": "Christmas Day"}
     ]
   },
+  "Samoa": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "January 2", "name": "Day after New Year's Day"},
+      {"date": "March 1", "name": "Independence Day"},
+      {"date": "June 1", "name": "National Holiday"}
+    ]
+  },
+  "San Marino": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "February 5", "name": "Patron Saint's Day"},
+      {"date": "September 3", "name": "The Feast of San Marino and the Republic"},
+      {"date": "November 1", "name": "All Saints' Day"}
+    ]
+  },
+
 
 
 
