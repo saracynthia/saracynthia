@@ -63,6 +63,16 @@ Countires Holidays
       {"date": "April 7", "name": "Motherhood and Beauty Day"},
       {"date": "April 24", "name": "Genocide Memorial Day"}
     ]
+ },
+  "Australia": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "January 26", "name": "Australia Day"},
+      {"date": "April 10", "name": "Good Friday"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+
 
 
 
