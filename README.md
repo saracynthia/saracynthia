@@ -232,6 +232,27 @@ Countires Holidays
       {"date": "December 1", "name": "National Day"}
     ]
   },
+  "Chad": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 8", "name": "International Women's Day"},
+      {"date": "August 11", "name": "Independence Day"},
+      {"date": "November 28", "name": "Republic Day"}
+    ]
+  },
+  "Chile": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "May 1", "name": "Labor Day"},
+      {"date": "September 18", "name": "Independence Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "China": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "April 4", "name": "Qingming Festival"},
+      {"date": "
 
 
 
