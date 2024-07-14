@@ -1020,6 +1020,14 @@ name": "Christmas Day"}
       {"date": "December 25", "name": "Quaid-e-Azam Day"}
     ]
   },
+  "Palau": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 1", "name": "Youth Day"},
+      {"date": "March 15", "name": "Constitution Day"},
+      {"date": "October 1", "name": "Independence Day"}
+    ]
+  },
 
 
 
