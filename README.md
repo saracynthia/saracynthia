@@ -680,6 +680,22 @@ Countires Holidays
       {"date": "December 26", "name": "Boxing Day"}
     ]
   },
+  "Kuwait": {
+    "holidays": [
+      {"date": "February 25", "name": "National Day"},
+      {"date": "February 26", "name": "Liberation Day"},
+      {"date": "May 1", "name": "Labour Day"},
+      {"date": "June 5", "name": "Eid al-Fitr"}
+    ]
+  },
+  "Kyrgyzstan": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 8", "name": "International Women's Day"},
+      {"date": "March 21", "name": "Nowruz"},
+      {"date": "May 1", "name": "Labour Day"}
+    ]
+  },
 
 
 
