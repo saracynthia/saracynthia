@@ -145,6 +145,22 @@ name": "St. George's Caye Day"},
       {"date": "November 30", "name": "National Day"}
     ]
   },
+  "Bolivia": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "May 1", "name": "Labor Day"},
+      {"date": "August 6", "name": "Independence Day"},
+      {"date": "November 2", "name": "All Souls' Day"}
+    ]
+  },
+  "Bosnia and Herzegovina": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "January 9", "name": "Republic Day"},
+      {"date": "May 1", "name": "Labor Day"},
+      {"date": "November 25", "name": "National Day"}
+    ]
+  },
 
 
 
