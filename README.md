@@ -1530,6 +1530,26 @@ ini Day"},
       {"date": "July 17", "name": "Revolution Day"},
       {"date": "September 26", "name": "September Revolution Day"}
 
+    ]
+  },
+  "Zambia": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 8", "name": "International Women's Day"},
+      {"date": "July 5", "name": "Heroes Day"},
+      {"date": "October 24", "name": "Independence Day"}
+    ]
+  },
+  "Zimbabwe": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "April 18", "name": "Independence Day"},
+      {"date": "May 1", "name": "Workers' Day"},
+      {"date": "December 22", "name": "Unity Day"}
+    ]
+  }
+}
+
 
 
 
