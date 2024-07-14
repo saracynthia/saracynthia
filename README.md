@@ -1377,6 +1377,26 @@ olidays": [
       {"date": "November 1", "name": "All Saints' Day"}
     ]
   },
+  "Togo": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "January 13", "name": "Togo's Independence Day"},
+      {"date": "March 8", "name": "Women's Day"},
+      {"date": "April 27", "name": "Independence Day"}
+    ]
+  },
+  "Tonga": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 4", "name": "King Tupou I Day"},
+      {"date": "July 4", "name": "Constitution Day"},
+      {"date": "September 17", "name": "Birthday of King Tupou IV"}
+    ]
+  },
+  "Trinidad and Tobago": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 30", "name": "Spiritual Baptist Liberation Day"},
 
 
 
