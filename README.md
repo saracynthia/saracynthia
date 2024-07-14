@@ -614,6 +614,22 @@ Countires Holidays
       {"date": "December 25", "name": "Christmas Day"}
     ]
   },
+ "Israel": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "April 15", "name": "Passover"},
+      {"date": "April 16", "name": "Passover"},
+      {"date": "April 17", "name": "Passover"}
+    ]
+  },
+  "Italy": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "January 6", "name": "Epiphany"},
+      {"date": "April 25", "name": "Liberation Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
 
 
 
