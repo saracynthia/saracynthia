@@ -476,6 +476,65 @@ Countires Holidays
       {"date": "October 14", "name": "Svetitskhovloba"}
     ]
   },
+  "Germany": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "April 10", "name": "Good Friday"},
+      {"date": "October 3", "name": "German Unity Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "Ghana": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 6", "name": "Independence Day"},
+      {"date": "May 1", "name": "Labour Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "Greece": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March
+
+ 25", "name": "Independence Day"},
+      {"date": "April 1", "name": "Greek Orthodox Good Friday"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "Grenada": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "February 7", "name": "Independence Day"},
+      {"date": "March 13", "name": "Independence Day (Observed)"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "Guatemala": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 25", "name": "Anniversary of the 1948 Revolution"},
+      {"date": "June 30", "name": "Army Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "Guinea": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 8", "name": "International Women's Day"},
+      {"date": "April 3", "name": "Independence Day"},
+      {"date": "May 1", "name": "Labour Day"}
+    ]
+  },
+  "Guinea-Bissau": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 8", "name": "International Women's Day"},
+      {"date": "September 24", "name": "Independence Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+
 
 
 
