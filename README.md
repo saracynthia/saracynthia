@@ -80,6 +80,15 @@ Countires Holidays
       {"date": "December 25", "name": "Christmas Day"}
     ]
   },
+  "Azerbaijan": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 8", "name": "Women's Day"},
+      {"date": "May 9", "name": "Victory Day"},
+      {"date": "December 31", "name": "National Day"}
+    ]
+  },
+
 
 
 
