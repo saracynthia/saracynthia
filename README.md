@@ -1465,6 +1465,22 @@ olidays": [
       {"date": "December 25", "name": "Christmas Day"}
     ]
   },
+  "United States": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "July 4", "name": "Independence Day"},
+      {"date": "November 11", "name": "Veterans Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "Uruguay": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 1", "name": "Carnival"},
+      {"date": "April 19", "name": "Landing of the 33 Patriots Day"},
+      {"date": "May 1", "name": "Labour Day"}
+    ]
+  },
 
 
 
