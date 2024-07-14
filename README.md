@@ -988,6 +988,22 @@ name": "Christmas Day"}
       {"date": "July 27", "name": "Victory Day"}
     ]
   },
+  "North Macedonia": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "January 7", "name": "Orthodox Christmas"},
+      {"date": "April 20", "name": "Orthodox Easter Sunday"},
+      {"date": "May 1", "name": "International Workers' Day"}
+    ]
+  },
+  "Norway": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "April 1", "name": "Maundy Thursday"},
+      {"date": "April 2", "name": "Good Friday"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
 
 
 
