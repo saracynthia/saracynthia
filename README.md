@@ -1401,6 +1401,22 @@ olidays": [
       {"date": "May 30", "name": "Indian Arrival Day"}
     ]
   },
+ "Tunisia": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "January 14", "name": "Revolution and Youth Day"},
+      {"date": "March 20", "name": "Independence Day"},
+      {"date": "July 25", "name": "Republic Day"}
+    ]
+  },
+  "Turkey": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "April 23", "name": "National Sovereignty and Children's Day"},
+      {"date": "May 1", "name": "Labour and Solidarity Day"},
+      {"date": "August 30", "name": "Victory Day"}
+    ]
+  },
 
 
 
