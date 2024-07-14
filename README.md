@@ -842,6 +842,30 @@ Countires Holidays
       {"date": "March 12", "name": "Independence Day"}
     ]
   },
+  "Mexico": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "February 5", "name": "Constitution Day"},
+      {"date": "March 21", "name": "Benito Juárez Day"},
+      {"date": "May 1", "name": "Labour Day"}
+    ]
+  },
+  "Micronesia": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 31", "name": "Yap Day"},
+      {"date": "May 10", "name": "Constitution Day"},
+      {"date": "July 12", "name": "Independence Day"}
+    ]
+  },
+  "Moldova": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 8", "name": "International Women's Day"},
+      {"date": "May 1", "name": "Labour Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
 
 
 
