@@ -305,6 +305,22 @@ Countires Holidays
       {"date": "April 1", "name": "Cyprus National Day"}
     ]
   },
+  "Czech Republic": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "May 1", "name": "Labor Day"},
+      {"date": "July 5", "name": "Saints Cyril and Methodius Day"},
+      {"date": "October 28", "name": "Independent Czechoslovak State Day"}
+    ]
+  },
+  "Democratic Republic of the Congo": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "January 4", "name": "Martyrs of Independence Day"},
+      {"date": "May 1", "name": "Labour Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
 
 
 
