@@ -24,6 +24,14 @@ Countires Holidays
       {"date": "November 1", "name": "Revolution Day"},
       {"date": "December 25", "name": "Christmas Day"}
     ]
+ "Andorra": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 14", "name": "Constitution Day"},
+      {"date": "September 8", "name": "Our Lady of Meritxell Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+
 
 
 
