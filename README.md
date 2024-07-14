@@ -648,6 +648,22 @@ Countires Holidays
       {"date": "May 3", "name": "Constitution Memorial Day"}
     ]
   },
+  "Jordan": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "April 25", "name": "Independence Day"},
+      {"date": "May 1", "name": "Labour Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "Kazakhstan": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 8", "name": "International Women's Day"},
+      {"date": "March 21", "name": "Nauryz Meyrami"},
+      {"date": "May 1", "name": "Kazakh People's Unity Day"}
+    ]
+  },
 
 
 
