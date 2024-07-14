@@ -1240,6 +1240,14 @@ New Year's Day"},
       {"date": "July 5", "name": "St. Cyril and St. Methodius Day"}
     ]
   },
+ "Slovenia": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "February 8", "name": "Prešeren Day"},
+      {"date": "April 27", "name": "Day of Uprising Against Occupation"},
+      {"date": "June 25", "name": "National Day"}
+    ]
+  },
 
 
 
