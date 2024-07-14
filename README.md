@@ -48,6 +48,14 @@ Countires Holidays
       {"date": "December 25", "name": "Christmas Day"}
     ]
   },
+  "Argentina": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 24", "name": "Memorial Day"},
+      {"date": "May 1", "name": "Labor Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
 
 
 
