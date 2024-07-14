@@ -127,6 +127,16 @@ Countires Holidays
       {"date": "November 1", "name": "All Saints' Day"}
     ]
   },
+  "Belize": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 9", "name": "National Heroes and Benefactors Day"},
+      {"date": "September 10", "
+
+name": "St. George's Caye Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
 
 
 
