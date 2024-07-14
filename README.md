@@ -72,6 +72,15 @@ Countires Holidays
       {"date": "December 25", "name": "Christmas Day"}
     ]
   },
+ "Austria": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "January 6", "name": "Epiphany"},
+      {"date": "May 1", "name": "Labor Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+
 
 
 
