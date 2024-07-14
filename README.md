@@ -890,6 +890,22 @@ Countires Holidays
       {"date": "May 21", "name": "Independence Day"}
     ]
   },
+  "Morocco": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "May 1", "name": "Labour Day"},
+      {"date": "July 30", "name": "Throne Day"},
+      {"date": "August 14", "name": "Oued Ed-Dahab Day"}
+    ]
+  },
+  "Mozambique": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "February 3", "name": "Heroes' Day"},
+      {"date": "May 1", "name": "Labour Day"},
+      {"date": "June 25", "name": "Independence Day"}
+    ]
+  },
 
 
 
