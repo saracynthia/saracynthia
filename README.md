@@ -906,6 +906,22 @@ Countires Holidays
       {"date": "June 25", "name": "Independence Day"}
     ]
   },
+ "Myanmar": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "February 12", "name": "Union Day"},
+      {"date": "March 2", "name": "Peasants' Day"},
+      {"date": "April 13", "name": "Thingyan Water Festival"}
+    ]
+  },
+  "Namibia": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 21", "name": "Independence Day"},
+      {"date": "May 1", "name": "Workers' Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
 
 
 
