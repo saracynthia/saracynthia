@@ -40,6 +40,16 @@ Countires Holidays
       {"date": "November 11", "name": "Independence Day"}
     ]
   },
+"Antigua and Barbuda": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 25", "name": "Good Friday"},
+      {"date": "August 1", "name": "Emancipation Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+
+
 
 
 
