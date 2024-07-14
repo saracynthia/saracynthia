@@ -428,8 +428,54 @@ Countires Holidays
       {"date": "September 11", "name": "New Year's Day"}
     ]
   },
-
-
+  "Fiji": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 19", "name": "Good Friday"},
+      {"date": "March 22", "name": "Easter Monday"},
+      {"date": "October 10", "name": "Fiji Day"}
+    ]
+  },
+  "Finland": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "January 6", "name": "Epiphany"},
+      {"date": "May 1", "name": "May Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "France": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "May 1", "name": "Labour Day"},
+      {"date": "July 14", "name": "Bastille Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "Gabon": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "August 16", "name": "Independence Day"},
+      {"date": "November 28", "name": "Youth Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "Gambia": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "February 18", "name": "Independence Day"},
+      {"date": "July 22", "name": "Revolution Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "Georgia": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "May 26", "name": "Independence Day"},
+      {"date": "August 28", "name": "Mariamoba"},
+      {"date": "October 14", "name": "Svetitskhovloba"}
+    ]
+  },
 
 
 
