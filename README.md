@@ -1044,6 +1044,23 @@ name": "Christmas Day"}
       {"date": "May 1", "name": "Labour Day"}
     ]
   },
+  "Papua New Guinea": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "July 23", "name": "Remembrance Day"},
+      {"date": "August 26", "name": "National Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "Paraguay": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 1", "name": "Heroes' Day"},
+      {"date": "May 1", "name": "Labour Day"},
+      {"date": "June 12", "name": "Chaco Armistice"}
+    ]
+  },
+
 
 
 
