@@ -1248,6 +1248,37 @@ New Year's Day"},
       {"date": "June 25", "name": "National Day"}
     ]
   },
+  "Solomon Islands": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 8", "name": "International Women's Day"},
+      {"date": "July 7", "name": "Independence Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "Somalia": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "May 1", "name": "Labour Day"},
+      {"date": "July 1", "name": "Independence Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "South Africa": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 21", "name": "Human Rights Day"},
+      {"date": "April 27", "name": "Freedom Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "South Korea": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "February 11", "name": "Seollal"},
+      {"date": "March 1", "name": "Independence Movement Day"},
+      {"date": "May 5", "name": "Children's Day"}
+    ]
 
 
 
