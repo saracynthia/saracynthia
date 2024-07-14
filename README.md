@@ -752,6 +752,23 @@ Countires Holidays
       {"date": "August 15", "name": "Assumption Day"}
     ]
   },
+ "Lithuania": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "February 16", "name": "State Restoration Day"},
+      {"date": "March 11", "name": "Independence Day"},
+      {"date": "June 24", "name": "Saint John's Day"}
+    ]
+  },
+  "Luxembourg": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 29", "name": "Good Friday"},
+      {"date": "April 1", "name": "Easter Monday"},
+      {"date": "June 23", "name": "National Day"}
+    ]
+  },
+
 
 
 
