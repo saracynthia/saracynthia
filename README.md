@@ -1279,6 +1279,14 @@ New Year's Day"},
       {"date": "March 1", "name": "Independence Movement Day"},
       {"date": "May 5", "name": "Children's Day"}
     ]
+  "Spain": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "January 6", "name": "Epiphany"},
+      {"date": "March 19", "name": "Saint Joseph's Day"},
+      {"date": "April 15", "name": "Good Friday"}
+    ]
+  },
 
 
 
