@@ -103,6 +103,14 @@ Countires Holidays
       {"date": "December 17", "name": "Accession Day"},
       {"date": "December 18", "name": "Accession Day Holiday"}
     ]
+  "Bangladesh": {
+    "holidays": [
+      {"date": "February 21", "name": "International Mother Language Day"},
+      {"date": "March 26", "name": "Independence Day"},
+      {"date": "April 14", "name": "Bengali New Year"},
+      {"date": "December 16", "name": "Victory Day"}
+    ]
+  },
 
 
 
