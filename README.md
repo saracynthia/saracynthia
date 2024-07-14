@@ -1174,6 +1174,22 @@ name": "Christmas Day"}
       {"date": "November 1", "name": "All Saints' Day"}
     ]
   },
+  "Sao Tome and Principe": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "February 3", "name": "Martyrs' Day"},
+      {"date": "July 12", "name": "Independence Day"},
+      {"date": "September 6", "name": "Armed Forces Day"}
+    ]
+  },
+  "Saudi Arabia": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "September 23", "name": "Saudi National Day"},
+      {"date": "September 24", "name": "Eid al-Fitr"},
+      {"date": "December 23", "name": "Saudi National Day"}
+    ]
+  },
 
 
 
