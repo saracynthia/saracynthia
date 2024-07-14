@@ -810,6 +810,22 @@ Countires Holidays
       {"date": "April 25", "name": "Labour Day"}
     ]
   },
+  "Malta": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "February 10", "name": "Feast of St. Paul's Shipwreck"},
+      {"date": "March 19", "name": "St. Joseph's Day"},
+      {"date": "June 29", "name": "Feast of St. Peter and St. Paul"}
+    ]
+  },
+  "Marshall Islands": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 1", "name": "Remembrance Day"},
+      {"date": "May 1", "name": "Constitution Day"},
+      {"date": "November 17", "name": "Presidents' Day"}
+    ]
+  },
 
 
 
