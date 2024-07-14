@@ -720,6 +720,38 @@ Countires Holidays
       {"date": "November 28", "name": "Independence Day"}
     ]
   },
+ "Lesotho": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 11", "name": "Moshoeshoe's Day"},
+      {"date": "October 4", "name": "Independence Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "Liberia": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "February 11", "name": "Armed Forces Day"},
+      {"date": "July 26", "name": "Independence Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "Libya": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 8", "name": "Revolution Day"},
+      {"date": "September 1", "name": "Eid al-Adha"},
+      {"date": "December 24", "name": "Independence Day"}
+    ]
+  },
+  "Liechtenstein": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "January 6", "name": "Epiphany"},
+      {"date": "February 2", "name": "Candlemas"},
+      {"date": "August 15", "name": "Assumption Day"}
+    ]
+  },
 
 
 
