@@ -940,6 +940,22 @@ name": "Christmas Day"}
       {"date": "March 1", "name": "Maha Shivaratri"}
     ]
   },
+  "Netherlands": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "April 27", "name": "King's Day"},
+      {"date": "May 5", "name": "Liberation Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "New Zealand": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "February 6", "name": "Waitangi Day"},
+      {"date": "April 19", "name": "Good Friday"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
 
 
 
