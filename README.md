@@ -794,6 +794,22 @@ Countires Holidays
       {"date": "August 31", "name": "National Day"}
     ]
   },
+  "Maldives": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "April 6", "name": "National Day"},
+      {"date": "May 1", "name": "Labour Day"},
+      {"date": "July 26", "name": "Independence Day"}
+    ]
+  },
+  "Mali": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "January 20", "name": "Armed Forces Day"},
+      {"date": "April 4", "name": "Easter Monday"},
+      {"date": "April 25", "name": "Labour Day"}
+    ]
+  },
 
 
 
