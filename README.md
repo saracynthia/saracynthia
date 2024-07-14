@@ -972,6 +972,22 @@ name": "Christmas Day"}
       {"date": "December 18", "name": "Republic Day"}
     ]
   },
+  "Nigeria": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "May 1", "name": "Workers' Day"},
+      {"date": "October 1", "name": "Independence Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "North Korea": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "February 16", "name": "Day of the Shining Star"},
+      {"date": "April 15", "name": "Day of the Sun"},
+      {"date": "July 27", "name": "Victory Day"}
+    ]
+  },
 
 
 
