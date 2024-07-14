@@ -31,6 +31,16 @@ Countires Holidays
       {"date": "September 8", "name": "Our Lady of Meritxell Day"},
       {"date": "December 25", "name": "Christmas Day"}
     ]
+ },
+  "Angola": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "February 4", "name": "Liberation Day"},
+      {"date": "March 8", "name": "International Women's Day"},
+      {"date": "November 11", "name": "Independence Day"}
+    ]
+  },
+
 
 
 
