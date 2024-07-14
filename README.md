@@ -1012,6 +1012,14 @@ name": "Christmas Day"}
       {"date": "November 18", "name": "National Day"}
     ]
   },
+ "Pakistan": {
+    "holidays": [
+      {"date": "February 5", "name": "Kashmir Day"},
+      {"date": "March 23", "name": "Pakistan Day"},
+      {"date": "August 14", "name": "Independence Day"},
+      {"date": "December 25", "name": "Quaid-e-Azam Day"}
+    ]
+  },
 
 
 
