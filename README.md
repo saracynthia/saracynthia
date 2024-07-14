@@ -1060,6 +1060,25 @@ name": "Christmas Day"}
       {"date": "June 12", "name": "Chaco Armistice"}
     ]
   },
+  "Peru": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 29", "name": "Maundy Thursday"},
+      {"date": "April 1", "name": "Good Friday"},
+      {"date": "May 1", "name": "Labour Day"}
+    ]
+  },
+  "Philippines": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "February 25", "name": "People Power Day"},
+      {"date": "April 9", "name": "Day of Valor"},
+
+
+      {"date": "May 1", "name": "Labour Day"}
+    ]
+  },
+
 
 
 
