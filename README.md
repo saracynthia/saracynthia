@@ -88,6 +88,14 @@ Countires Holidays
       {"date": "December 31", "name": "National Day"}
     ]
   },
+  "Bahamas": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "January 10", "name": "Majority Rule Day"},
+      {"date": "April 10", "name": "Good Friday"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
 
 
 
