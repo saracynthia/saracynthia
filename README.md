@@ -1078,6 +1078,22 @@ name": "Christmas Day"}
       {"date": "May 1", "name": "Labour Day"}
     ]
   },
+  "Poland": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "January 6", "name": "Three Kings Day"},
+      {"date": "April 4", "name": "Easter Sunday"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "Portugal": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "April 25", "name": "Liberty Day"},
+      {"date": "June 10", "name": "Portugal Day"},
+      {"date": "December 1", "name": "Restoration of Independence"}
+    ]
+  },
 
 
 
