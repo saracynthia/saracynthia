@@ -1190,6 +1190,22 @@ name": "Christmas Day"}
       {"date": "December 23", "name": "Saudi National Day"}
     ]
   },
+  "Senegal": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "April 4", "name": "Independence Day"},
+      {"date": "April 25", "name": "Labor Day"},
+      {"date": "May 1", "name": "Labour Day"}
+    ]
+  },
+  "Serbia": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "January 2", "name": "New Year's Day Holiday"},
+      {"date": "February 15", "name": "Statehood Day"},
+      {"date": "February 16", "name": "Statehood Day Holiday"}
+    ]
+  },
 
 
 
