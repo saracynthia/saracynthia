@@ -265,6 +265,46 @@ Countires Holidays
     ]
   },
 
+  "Congo (Brazzaville)": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 8", "name": "International Women's Day"},
+      {"date": "August 15", "name": "Assumption Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "Costa Rica": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "April 11", "name": "Juan Santamaria Day"},
+      {"date": "September 15", "name": "Independence Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "Croatia": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "January 6", "name": "Epiphany"},
+      {"date": "May 1", "name": "Labor Day"},
+      {"date": "June 22", "name": "Anti-Fascist Struggle Day"}
+    ]
+  },
+  "Cuba": {
+    "holidays": [
+      {"date": "January 1", "name": "Triumph of the Revolution"},
+      {"date": "May 1", "name": "Labour Day"},
+      {"date": "July 25", "name": "Revolution Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "Cyprus": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "January 6", "name": "Epiphany"},
+      {"date": "March 25", "name": "Greek Independence Day"},
+      {"date": "April 1", "name": "Cyprus National Day"}
+    ]
+  },
 
 
 
