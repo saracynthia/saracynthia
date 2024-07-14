@@ -1327,6 +1327,30 @@ New Year's Day"},
       {"date": "April 1", "name": "Good Friday"}
     ]
   },
+  "Syria": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "April 17", "name": "Independence Day"},
+      {"date": "May 1", "name": "Labour Day"},
+      {"date": "October 6", "name": "October Liberation War Day"}
+    ]
+  },
+  "Taiwan": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "February 28", "name": "228 Peace Memorial Day"},
+      {"date": "April 4", "name": "Children's Day"},
+      {"date": "October 10", "name": "National Day"}
+    ]
+  },
+  "Tajikistan": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 8", "name": "International Women's Day"},
+      {"date": "March 21", "name": "Nowruz"},
+      {"date": "May 1", "name": "Labour Day"}
+    ]
+  },
 
 
 
