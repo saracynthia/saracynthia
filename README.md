@@ -369,6 +369,41 @@ Countires Holidays
       {"date": "August 10", "name": "Independence Day"}
     ]
 
+  },
+  "Egypt": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "April 25", "name": "Sinai Liberation Day"},
+      {"date": "May 1", "name": "Labour Day"},
+      {"date": "July 23", "name": "Revolution Day"}
+    ]
+  },
+  "El Salvador": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 29", "name": "Maundy Thursday"},
+      {"date": "March 30", "name": "Good Friday"},
+      {"date": "August 6", "name": "Feast of San Salvador"}
+    ]
+  },
+  "Equatorial Guinea": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date":
+
+ "May 1", "name": "Labour Day"},
+      {"date": "October 12", "name": "Independence Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "Eritrea": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "May 24", "name": "Independence Day"},
+      {"date": "June 20", "name": "Martyrs' Day"},
+      {"date": "September 1", "name": "Start of the Armed Struggle"}
+    ]
+  },
 
 
 
