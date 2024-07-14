@@ -1417,6 +1417,22 @@ olidays": [
       {"date": "August 30", "name": "Victory Day"}
     ]
   },
+  "Turkmenistan": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "January 12", "name": "Memorial Day"},
+      {"date": "March 8", "name": "International Women's Day"},
+      {"date": "May 9", "name": "Day of Remembrance"}
+    ]
+  },
+  "Tuvalu": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 31", "name": "Senior Citizens' Day"},
+      {"date": "June 30", "name": "Constitution Day"},
+      {"date": "October 1", "name": "Independence Day"}
+    ]
+  },
 
 
 
