@@ -1142,6 +1142,22 @@ name": "Christmas Day"}
       {"date": "September 19", "name": "Independence Day"}
     ]
   },
+ "Saint Lucia": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "February 22", "name": "Independence Day"},
+      {"date": "March 21", "name": "Easter Monday"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "Saint Vincent and the Grenadines": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "January 7", "name": "Independence Day"},
+      {"date": "March 14", "name": "National Heroes Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
 
 
 
