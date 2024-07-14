@@ -253,6 +253,10 @@ Countires Holidays
       {"date": "January 1", "name": "New Year's Day"},
       {"date": "April 4", "name": "Qingming Festival"},
       {"date": "
+May 1", "name": "International Labor Day"},
+      {"date": "October 1", "name": "National Day"}
+    ]
+  },
 
 
 
