@@ -1206,6 +1206,14 @@ name": "Christmas Day"}
       {"date": "February 16", "name": "Statehood Day Holiday"}
     ]
   },
+  "Seychelles": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "June 5", "name": "Liberation Day"},
+      {"date": "June 18", "name": "Constitution Day"},
+      {"date": "June 29", "name": "Independence Day"}
+    ]
+  },
 
 
 
