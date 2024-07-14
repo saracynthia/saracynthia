@@ -582,6 +582,22 @@ Countires Holidays
       {"date": "December 25", "name": "Christmas Day"}
     ]
   },
+  "Indonesia": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 20", "name": "Hari Raya Nyepi (Balinese New Year)"},
+      {"date": "May 1", "name": "Labour Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "Iran": {
+    "holidays": [
+      {"date": "March 21", "name": "Nowruz"},
+      {"date": "April 1", "name": "Islamic Republic Day"},
+      {"date": "April 2", "name": "Sizdah Bedar"},
+      {"date": "April 9", "name": "Islamic Republic Day"}
+    ]
+  },
 
 
 
