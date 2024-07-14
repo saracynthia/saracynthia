@@ -345,6 +345,29 @@ Countires Holidays
       {"date": "December 25", "name": "Christmas Day"}
     ]
   },
+ "Dominican Republic": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "January 6", "name": "Epiphany"},
+      {"date": "February 27", "name": "Independence Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "East Timor": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "April 17", "name": "Constitution Day"},
+      {"date": "May 20", "name": "Independence Day"},
+      {"date": "November 28", "name": "Proclamation of Independence"}
+    ]
+  },
+  "Ecuador": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "February 27", "name": "Independence of Guayaquil"},
+      {"date": "May 1", "name": "Labour Day"},
+      {"date": "August 10", "name": "Independence Day"}
+    ]
 
 
 
