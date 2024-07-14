@@ -1397,6 +1397,10 @@ olidays": [
     "holidays": [
       {"date": "January 1", "name": "New Year's Day"},
       {"date": "March 30", "name": "Spiritual Baptist Liberation Day"},
+  {"date": "April 15", "name": "Good Friday"},
+      {"date": "May 30", "name": "Indian Arrival Day"}
+    ]
+  },
 
 
 
