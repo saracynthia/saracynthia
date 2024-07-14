@@ -558,6 +558,31 @@ Countires Holidays
       {"date": "December 25", "name": "Christmas Day"}
     ]
   },
+  "Hungary": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 15", "name": "Revolution Day"},
+      {"date": "August 20", "name": "Constitution Day"},
+      {"date": "October 23", "name": "Republic Day"}
+    ]
+  },
+  "Iceland": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "April 1", "name": "Maundy Thursday"},
+      {"date": "April 2", "name": "Good Friday"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "India": {
+    "holidays": [
+      {"date": "January 26", "name": "Republic Day"},
+      {"date": "August 15", "name": "Independence Day"},
+      {"date": "October 2", "name": "Mahatma Gandhi's Birthday"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+
 
 
 
