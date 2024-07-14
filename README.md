@@ -200,6 +200,38 @@ Countires Holidays
       {"date": "July 5", "name": "Independence Day"}
     ]
   },
+ "Cambodia": {
+    "holidays": [
+      {"date": "January 1", "name": "International New Year Day"},
+      {"date": "March 8", "name": "International Women's Day"},
+      {"date": "April 14", "name": "Khmer New Year Day"},
+      {"date": "May 1", "name": "International Labor Day"}
+    ]
+  },
+  "Cameroon": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "May 1", "name": "Labour Day"},
+      {"date": "May 20", "name": "National Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "Canada": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "July 1", "name": "Canada Day"},
+      {"date": "October 11", "name": "Thanksgiving"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "Central African Republic": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 29", "name": "Boganda Day"},
+      {"date": "August 13", "name": "Independence Day"},
+      {"date": "December 1", "name": "National Day"}
+    ]
+  },
 
 
 
