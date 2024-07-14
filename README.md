@@ -1433,6 +1433,22 @@ olidays": [
       {"date": "October 1", "name": "Independence Day"}
     ]
   },
+  "Uganda": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "January 26", "name": "Liberation Day"},
+      {"date": "March 8", "name": "International Women's Day"},
+      {"date": "June 3", "name": "Martyrs' Day"}
+    ]
+  },
+  "Ukraine": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "January 7", "name": "Orthodox Christmas Day"},
+      {"date": "March 8", "name": "International Women's Day"},
+      {"date": "April 7", "name": "Orthodox Easter Sunday"}
+    ]
+  },
 
 
 
