@@ -534,6 +534,30 @@ Countires Holidays
       {"date": "December 25", "name": "Christmas Day"}
     ]
   },
+ "Guyana": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "February 23", "name": "Republic Day"},
+      {"date": "March 23", "name": "Holi"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "Haiti": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "January 2", "name": "Ancestry Day"},
+      {"date": "January 6", "name": "Epiphany"},
+      {"date": "March 5", "name": "Carnival"}
+    ]
+  },
+  "Honduras": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "April 14", "name": "Americas Day"},
+      {"date": "September 15", "name": "Independence Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
 
 
 
