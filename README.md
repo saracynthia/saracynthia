@@ -248,15 +248,23 @@ Countires Holidays
       {"date": "December 25", "name": "Christmas Day"}
     ]
   },
-  "China": {
+  "Colombia": {
     "holidays": [
       {"date": "January 1", "name": "New Year's Day"},
-      {"date": "April 4", "name": "Qingming Festival"},
-      {"date": "
-May 1", "name": "International Labor Day"},
-      {"date": "October 1", "name": "National Day"}
+      {"date": "May 1", "name": "Labor Day"},
+      {"date": "July 20", "name": "Independence Day"},
+      {"date": "December 25", "name": "Christmas Day"}
     ]
   },
+  "Comoros": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "May 1", "name": "Labour Day"},
+      {"date": "July 6", "name": "Independence Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+
 
 
 
