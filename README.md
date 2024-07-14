@@ -1481,6 +1481,24 @@ olidays": [
       {"date": "May 1", "name": "Labour Day"}
     ]
   },
+ "Uzbekistan": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 8", "name": "International Women's Day"},
+      {"date": "March 21", "name": "Navruz"},
+      {"date": "September 1", "name": "Independence Day"}
+    ]
+  },
+  "Vanuatu": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "February 21", "name": "Father L
+
+ini Day"},
+      {"date": "March 5", "name": "Custom Chief's Day"},
+      {"date": "July 30", "name": "Independence Day"}
+    ]
+  },
 
 
 
