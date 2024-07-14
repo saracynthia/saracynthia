@@ -956,6 +956,22 @@ name": "Christmas Day"}
       {"date": "December 25", "name": "Christmas Day"}
     ]
   },
+ "Nicaragua": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 19", "name": "Father's Day"},
+      {"date": "April 14", "name": "Maundy Thursday"},
+      {"date": "May 1", "name": "Labour Day"}
+    ]
+  },
+  "Niger": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "January 3", "name": "Independence Manifesto Day"},
+      {"date": "April 24", "name": "National Day"},
+      {"date": "December 18", "name": "Republic Day"}
+    ]
+  },
 
 
 
