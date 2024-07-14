@@ -922,6 +922,24 @@ Countires Holidays
       {"date": "December 25", "name": "Christmas Day"}
     ]
   },
+ "Nauru": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "January 31", "name": "Independence Day"},
+      {"date": "May 1", "name": "Constitution Day"},
+      {"date": "December 25", "
+
+name": "Christmas Day"}
+    ]
+  },
+  "Nepal": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "January 7", "name": "Maghe Sankranti"},
+      {"date": "February 12", "name": "Prithvi Jayanti"},
+      {"date": "March 1", "name": "Maha Shivaratri"}
+    ]
+  },
 
 
 
