@@ -1449,6 +1449,22 @@ olidays": [
       {"date": "April 7", "name": "Orthodox Easter Sunday"}
     ]
   },
+  "United Arab Emirates": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "May 1", "name": "Labour Day"},
+      {"date": "August 6", "name": "Hijri New Year's Day"},
+      {"date": "December 2", "name": "National Day"}
+    ]
+  },
+  "United Kingdom": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "April 6", "name": "Good Friday"},
+      {"date": "April 9", "name": "Easter Monday"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
 
 
 
