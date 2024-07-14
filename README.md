@@ -826,6 +826,22 @@ Countires Holidays
       {"date": "November 17", "name": "Presidents' Day"}
     ]
   },
+  "Mauritania": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "April 25", "name": "Labour Day"},
+      {"date": "November 28", "name": "Independence Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "Mauritius": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "January 2", "name": "New Year Holiday"},
+      {"date": "February 1", "name": "Abolition of Slavery"},
+      {"date": "March 12", "name": "Independence Day"}
+    ]
+  },
 
 
 
