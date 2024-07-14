@@ -1303,6 +1303,14 @@ New Year's Day"},
       {"date": "December 25", "name": "Christmas Day"}
     ]
   },
+ "Suriname": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "February 23", "name": "Republic Day"},
+      {"date": "March 8", "name": "International Women's Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
 
 
 
