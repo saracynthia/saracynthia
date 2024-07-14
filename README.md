@@ -1028,6 +1028,22 @@ name": "Christmas Day"}
       {"date": "October 1", "name": "Independence Day"}
     ]
   },
+  "Palestine": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "May 1", "name": "Labour Day"},
+      {"date": "May 15", "name": "Nakba Day"},
+      {"date": "June 5", "name": "Eid al-Fitr"}
+    ]
+  },
+  "Panama": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "January 9", "name": "Martyrs' Day"},
+      {"date": "February 23", "name": "Shrove Monday"},
+      {"date": "May 1", "name": "Labour Day"}
+    ]
+  },
 
 
 
