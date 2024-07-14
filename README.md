@@ -127,16 +127,6 @@ Countires Holidays
       {"date": "November 1", "name": "All Saints' Day"}
     ]
   },
-  "Belize": {
-    "holidays": [
-      {"date": "January 1", "name": "New Year's Day"},
-      {"date": "March 9", "name": "National Heroes and Benefactors Day"},
-      {"date": "September 10", "
-
-name": "St. George's Caye Day"},
-      {"date": "December 25", "name": "Christmas Day"}
-    ]
-  },
   "Benin": {
     "holidays": [
       {"date": "January 1", "name": "New Year's Day"},
@@ -176,6 +166,22 @@ name": "St. George's Caye Day"},
       {"date": "April 21", "name": "Tiradentes Day"},
       {"date": "September 7", "name": "Independence Day"},
       {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "Bulgaria": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 3", "name": "Liberation Day"},
+      {"date": "May 6", "name": "Saint George's Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "Burkina Faso": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 8", "name": "International Women's Day"},
+      {"date": "August 5", "name": "Independence Day"},
+      {"date": "December 11", "name": "Proclamation of the Republic"}
     ]
   },
 
