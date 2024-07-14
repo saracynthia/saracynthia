@@ -768,6 +768,22 @@ Countires Holidays
       {"date": "June 23", "name": "National Day"}
     ]
   },
+  "Madagascar": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 29", "name": "Martyrs' Day"},
+      {"date": "June 26", "name": "Independence Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "Malawi": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 3", "name": "Martyrs' Day"},
+      {"date": "July 6", "name": "Independence Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
 
 
 
