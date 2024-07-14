@@ -1351,6 +1351,16 @@ New Year's Day"},
       {"date": "May 1", "name": "Labour Day"}
     ]
   },
+  "Tanzania": {
+    "h
+
+olidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "January 12", "name": "Zanzibar Revolution Day"},
+      {"date": "April 26", "name": "Union Day"},
+      {"date": "December 9", "name": "Independence Day"}
+    ]
+  },
 
 
 
