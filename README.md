@@ -1295,6 +1295,14 @@ New Year's Day"},
       {"date": "April 14", "name": "Sinhala and Tamil New Year Day"}
     ]
   },
+ "Sudan": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 8", "name": "Women's Day"},
+      {"date": "May 25", "name": "Sudanese Resistance Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
 
 
 
