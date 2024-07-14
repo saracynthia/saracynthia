@@ -111,6 +111,15 @@ Countires Holidays
       {"date": "December 16", "name": "Victory Day"}
     ]
   },
+ "Belarus": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 8", "name": "International Women's Day"},
+      {"date": "July 3", "name": "Independence Day"},
+      {"date": "November 7", "name": "October Revolution Day"}
+    ]
+  },
+
 
 
 
