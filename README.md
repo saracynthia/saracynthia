@@ -664,6 +664,22 @@ Countires Holidays
       {"date": "May 1", "name": "Kazakh People's Unity Day"}
     ]
   },
+ "Kenya": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 8", "name": "International Women's Day"},
+      {"date": "June 1", "name": "Madaraka Day"},
+      {"date": "December 12", "name": "Jamhuri Day"}
+    ]
+  },
+  "Kiribati": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "July 12", "name": "Independence Day"},
+      {"date": "December 25", "name": "Christmas Day"},
+      {"date": "December 26", "name": "Boxing Day"}
+    ]
+  },
 
 
 
