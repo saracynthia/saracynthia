@@ -1214,6 +1214,16 @@ name": "Christmas Day"}
       {"date": "June 29", "name": "Independence Day"}
     ]
   },
+  "Sierra Leone": {
+    "holidays": [
+      {"date": "January 1", "name": "
+
+New Year's Day"},
+      {"date": "April 27", "name": "Independence Day"},
+      {"date": "May 1", "name": "Labour Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
 
 
 
