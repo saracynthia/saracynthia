@@ -1224,6 +1224,14 @@ New Year's Day"},
       {"date": "December 25", "name": "Christmas Day"}
     ]
   },
+  "Singapore": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "January 31", "name": "Chinese New Year"},
+      {"date": "February 1", "name": "Chinese New Year Holiday"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
 
 
 
