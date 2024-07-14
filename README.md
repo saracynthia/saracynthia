@@ -1287,6 +1287,14 @@ New Year's Day"},
       {"date": "April 15", "name": "Good Friday"}
     ]
   },
+ "Sri Lanka": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "February 4", "name": "National Day"},
+      {"date": "April 13", "name": "Day prior to Sinhala and Tamil New Year Day"},
+      {"date": "April 14", "name": "Sinhala and Tamil New Year Day"}
+    ]
+  },
 
 
 
