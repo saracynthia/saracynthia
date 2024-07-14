@@ -1,4 +1,4 @@
-# Notification For Holidays 0352a
+# Notification For Holidays 
 Countires Holidays 
 
 ```json
@@ -1499,6 +1499,21 @@ ini Day"},
       {"date": "July 30", "name": "Independence Day"}
     ]
   },
+  "Vatican City": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "January 6", "name": "Epiphany"},
+      {"date": "February 22", "name": "Chair of Saint Peter"},
+      {"date": "December 8", "name": "Immaculate Conception"}
+    ]
+  },
+  "Venezuela": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 8", "name": "International Women's Day"},
+      {"date": "April 19", "name": "Declaration of Independence"},
+      {"date": "May 1", "name": "Labour Day"}
+    ]
 
 
 
