@@ -321,6 +321,30 @@ Countires Holidays
       {"date": "December 25", "name": "Christmas Day"}
     ]
   },
+  "Denmark": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "April 1", "name": "Maundy Thursday"},
+      {"date": "April 2", "name": "Good Friday"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "Djibouti": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "May 1", "name": "Labour Day"},
+      {"date": "June 27", "name": "Independence Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "Dominica": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "February 22", "name": "Independence Day"},
+      {"date": "March 4", "name": "Carnival Monday"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
 
 
 
