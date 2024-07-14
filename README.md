@@ -1004,6 +1004,14 @@ name": "Christmas Day"}
       {"date": "December 25", "name": "Christmas Day"}
     ]
   },
+  "Oman": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "July 23", "name": "Renaissance Day"},
+      {"date": "August 10", "name": "Eid al-Fitr"},
+      {"date": "November 18", "name": "National Day"}
+    ]
+  },
 
 
 
