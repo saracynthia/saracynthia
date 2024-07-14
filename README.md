@@ -630,6 +630,24 @@ Countires Holidays
       {"date": "December 25", "name": "Christmas Day"}
     ]
   },
+ "Jamaica": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 14", "name": "Ash Wednesday"},
+      {"date": "August 1", "name": "Emancipation Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "Japan": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date":
+
+ "February 11", "name": "National Foundation Day"},
+      {"date": "April 29", "name": "Shōwa Day"},
+      {"date": "May 3", "name": "Constitution Memorial Day"}
+    ]
+  },
 
 
 
