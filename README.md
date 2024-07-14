@@ -404,6 +404,31 @@ Countires Holidays
       {"date": "September 1", "name": "Start of the Armed Struggle"}
     ]
   },
+  "Estonia": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "February 24", "name": "Independence Day"},
+      {"date": "June 23", "name": "Victory Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "Eswatini": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "April 19", "name": "Independence Day"},
+      {"date": "September 6", "name": "Somhlolo Day"},
+      {"date": "December 25", "name": "Christmas Day"}
+    ]
+  },
+  "Ethiopia": {
+    "holidays": [
+      {"date": "January 7", "name": "Christmas Day"},
+      {"date": "January 19", "name": "Epiphany"},
+      {"date": "March 2", "name": "Adwa Victory Day"},
+      {"date": "September 11", "name": "New Year's Day"}
+    ]
+  },
+
 
 
 
