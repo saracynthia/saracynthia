@@ -184,6 +184,22 @@ Countires Holidays
       {"date": "December 11", "name": "Proclamation of the Republic"}
     ]
   },
+  "Burundi": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "February 5", "name": "Unity Day"},
+      {"date": "May 1", "name": "Labour Day"},
+      {"date": "July 1", "name": "Independence Day"}
+    ]
+  },
+  "Cabo Verde": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "January 20", "name": "National Heroes Day"},
+      {"date": "May 1", "name": "Labor Day"},
+      {"date": "July 5", "name": "Independence Day"}
+    ]
+  },
 
 
 
