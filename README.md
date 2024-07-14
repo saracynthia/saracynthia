@@ -704,6 +704,22 @@ Countires Holidays
       {"date": "December 2", "name": "National Day"}
     ]
   },
+  "Latvia": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "March 8", "name": "International Women's Day"},
+      {"date": "June 23", "name": "Midsummer Eve"},
+      {"date": "November 18", "name": "Independence Day"}
+    ]
+  },
+  "Lebanon": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "November 22", "name": "Independence Day"},
+      {"date": "May 1", "name": "Labour Day"},
+      {"date": "November 28", "name": "Independence Day"}
+    ]
+  },
 
 
 
