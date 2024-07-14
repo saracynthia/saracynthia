@@ -96,6 +96,13 @@ Countires Holidays
       {"date": "December 25", "name": "Christmas Day"}
     ]
   },
+  "Bahrain": {
+    "holidays": [
+      {"date": "January 1", "name": "New Year's Day"},
+      {"date": "December 16", "name": "National Day"},
+      {"date": "December 17", "name": "Accession Day"},
+      {"date": "December 18", "name": "Accession Day Holiday"}
+    ]
 
 
 
