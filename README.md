@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF8&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Sara+and+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Cynthia and Welcome to my Profile! animated typed out" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF8&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Sara+and+Welcome+to+m+Profile!" align="middle" alt="Hey, I'm Cynthia and Welcome to my Profile! animated typed out" width="100%"/>
 
 
 [![Gmail Badge](https://img.shields.io/badge/-saracynthia5.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:saracynthia5@gmail.com)](mailto:saracynthia5@gmail.com)
